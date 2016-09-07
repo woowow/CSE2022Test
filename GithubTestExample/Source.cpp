@@ -38,4 +38,6 @@ void main()
 	std::ofstream of("cppstyle.txt");
 
 	of << vector << std::endl;
+
+	// branch commit test.
 }
